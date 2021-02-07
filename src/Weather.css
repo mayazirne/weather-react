@@ -16,7 +16,7 @@ input[type="text"] {
   border: none;
   border-radius: 30px;
   padding-left: 40px;
-  opacity: 50%;
+  opacity: 0.5;
 }
 
 hr {
@@ -36,7 +36,7 @@ button {
   border: none;
   background: none;
   color: white;
-  opacity: 60%;
+  opacity: 0.6;
   transition: all 20ms ease-in-out;
   font-size: 20px;
 }
@@ -80,7 +80,7 @@ a:active {
 .main-icon {
   position: relative;
   color: white;
-  opacity: 60%;
+  opacity: 0.6;
   font-size: 120px;
   top: -100px;
   text-shadow: 0.1vw 0vw 0.25vw #ffd8d8, 0.2vw 0vw 0.25vw #ffd8d8,
@@ -144,7 +144,7 @@ a:active {
   font-size: 38px;
   color: #ffd8d8;
   font-weight: bold;
-  opacity: 80%;
+  opacity: 0.8;
 }
 .city-name {
   text-transform: uppercase;
@@ -154,7 +154,7 @@ a:active {
   margin-top: -20px;
   font-family: "Athiti", sans-serif;
   color: #ffd8d8;
-  opacity: 70%;
+  opacity: 0.7;
   font-size: 14px;
 }
 .git-link:hover {
