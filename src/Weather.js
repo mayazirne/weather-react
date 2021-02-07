@@ -27,11 +27,11 @@ export default function Weather() {
               <span>{weatherData.temperature}</span>°
               <span id="units">
                 <a href="/" id="celsius-link">
-                  C
+                 {" "} C {" "}
                 </a>
                 |
                 <a href="/" id="fahrenheit-link" className="active">
-                  F
+                 {" "} F
                 </a>
               </span>
             </div>
@@ -69,7 +69,7 @@ export default function Weather() {
         className="git-link"
       >
         Open-source code
-      </a>
+      </a> {" "}
       by Maya Zirne
     </div>
     </div>
