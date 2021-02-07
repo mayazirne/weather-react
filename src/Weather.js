@@ -81,7 +81,7 @@ export default function Weather() {
       </div>
       <div className="footer">
       <a
-        href="https://github.com/mayazirne/weather-app"
+        href="https://github.com/mayazirne/weather-react"
         target="blank"
         className="git-link"
       >
